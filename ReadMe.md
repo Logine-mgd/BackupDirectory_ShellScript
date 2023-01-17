@@ -1,5 +1,4 @@
 # Overview about the code
-Working directory name is 7163-lab2.  
 It contains:   
 1.Shell Script in backupd.sh  
 
